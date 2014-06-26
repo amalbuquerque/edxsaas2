@@ -1,3 +1,6 @@
 [submodule "hw1"]
 	path = hw1
 	url = https://github.com/lejboua/oracle-of-bacon.git
+[submodule "hw2"]
+	path = hw2
+	url = https://github.com/lejboua/typo.git
